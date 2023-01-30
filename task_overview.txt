@@ -1,0 +1,14 @@
+-----------------------------------
+    TASK OVERVIEW
+-----------------------------------
+    Completed tasks:    3
+    Incomplete tasks:   3
+    Overdue tasks:      2
+    ---------------------------
+    Total tasks:        6
+
+    BY PERCENTAGE:
+    
+    Incomplete tasks:   50.0%
+    Overdue tasks:      33.3%
+-----------------------------------

@@ -1,0 +1,6 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+iain, Clean the car., Inside and out. Proper good clean!, 19 Nov 2022, 14 Nov 2022, No
+iain, Get warm, It's cold in the shed today!, 16 Nov 2022, 15 Nov 2022, No
+reviewer, Give this task full marks., 4/4 4/4 4/4 4/4 , 16 Nov 2022, 15 Nov 2022, No
+iain, Drink your coffee, Try not to spill any and make sure you don't let it go cold., 17 Nov 2022, 16 Nov 2022, Yes

@@ -1,0 +1,30 @@
+-----------------------------------
+    INDIVIDUAL SUMMARIES
+-----------------------------------
+    Total Users:        3
+    Total Tasks:        6
+-----------------------------------
+>> admin
+    Total Tasks:        2
+    Percentage of all:  33.3%
+    Completeness by percentage:   
+        Completed:      100.0%
+        Incomplete:     0.0%
+        Overdue:        0.0%
+-----------------------------------
+>> iain
+    Total Tasks:        3
+    Percentage of all:  50.0%
+    Completeness by percentage:   
+        Completed:      33.3%
+        Incomplete:     66.7%
+        Overdue:        33.3%
+-----------------------------------
+>> reviewer
+    Total Tasks:        1
+    Percentage of all:  16.7%
+    Completeness by percentage:   
+        Completed:      0.0%
+        Incomplete:     100.0%
+        Overdue:        100.0%
+-----------------------------------
