@@ -24,4 +24,4 @@ I'm certain that this software will save you and your business a small fortune a
 
 ## Credits & Highlights
 
-All credit to myself. The main highlight of this task was finishing it.
+All credit to myself.
