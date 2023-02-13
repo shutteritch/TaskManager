@@ -1,4 +1,4 @@
-# Capstone Project II
+# Task Manager - Capstone Project II
 
 A multi user task management system built using Python and storing data in *.txt files.
 
